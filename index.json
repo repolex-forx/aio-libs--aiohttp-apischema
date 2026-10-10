@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohttp-apischema",
+  "versions": [
+    {
+      "commit": "25d10ce62363fca89dd43d27f2000e9f3213e91d",
+      "tag": "",
+      "parsed_at": "2026-10-10T23:03:35.548248+00:00"
+    }
+  ]
+}
